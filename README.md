@@ -1,2 +1,3 @@
-# new-forms-of-data
-Materials and information relating to the New Forms of Data training series
+# New Forms of Data
+
+A training series conducted by the UK Data Service.
