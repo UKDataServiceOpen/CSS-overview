@@ -1,7 +1,6 @@
 ---
 layout: default
-title: "Meet the Team"
-permalink: /about/
+title: "About"
 ---
 
 # Meet the Team
