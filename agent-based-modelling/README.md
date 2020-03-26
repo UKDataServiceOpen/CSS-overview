@@ -7,7 +7,7 @@ One possible solution is to run social science experiments in silico, with simul
 
 ## Webinars
 
-### 1. Introduction to agent-based modelling for social scientists
+### [1. Introduction to agent-based modelling for social scientists](https://www.youtube.com/watch?v=Twpg3j9dnG0)
 
 This webinar:
 
@@ -16,7 +16,7 @@ This webinar:
 * discusses the pros and cons of agent-based models
 * presents several software options for agent-based modelling and where to get more information
 
-### 2. Adding real world GIS and census data to agent-based modelling for social scientists
+### [2. Adding real world GIS and census data to agent-based modelling for social scientists](https://www.youtube.com/watch?v=7CAzJjYYtlE)
 
 This webinar:
 
@@ -25,7 +25,7 @@ This webinar:
 * discusses some problems and limitations of using real world data in agent-based models
 * presents links so that users can access and use the model data presented in the webinar
 
-### 3. Conducting experiments, recording output and analysing results of agent-based modelling for social scientists
+### [3. Conducting experiments, recording output and analysing results of agent-based modelling for social scientists](https://www.youtube.com/watch?v=l0oeeRaamEM)
 
 This webinar:
 * how to conduct parameter sweeps for model testing in NetLogo
