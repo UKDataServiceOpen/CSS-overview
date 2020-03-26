@@ -4,8 +4,6 @@ title: "Meet the Team"
 permalink: /about/
 ---
 
-<a href="https://ukdataserviceopen.github.io/new-forms-of-data">Home</a> | <a href="https://ukdataserviceopen.github.io/new-forms-of-data/about">About</a> | <a href="https://ukdataserviceopen.github.io/new-forms-of-data/resources">Resources</a> | <a href="https://ukdataserviceopen.github.io/new-forms-of-data/blog">Blog</a>
-
 # Meet the Team
 
 ### Dr Julia Kasmire
