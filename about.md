@@ -12,7 +12,7 @@ Julia is a Research Associate at the UK Data Service based at University of Manc
 
 ### Dr Diarmuid McDonnell
 
-Diarmuid is a Research Associate at the UK Data Service based at University of Manchester. He is a social scientist with experience in academia, the public and voluntary sectors, and consultancy work. His research specialism is the regulation and accountability of civil society, particularly charitable organisations. His work leverages large-scale, administrative data from regulatory bodies in multiple jurisdictions. Diarmuid's teaching and methodological interests are around computational social science, quasi-experimental research designs, and e-Research.
+Diarmuid is a Research Associate at the UK Data Service based at University of Manchester. He is a social scientist with experience in academia, the public and voluntary sectors, and consultancy work. His research specialism is the regulation and accountability of civil society, particularly charitable organisations. His work leverages large-scale, administrative data from regulatory bodies in multiple jurisdictions. Diarmuid's teaching and methodological interests are in computational social science, quasi-experimental research designs, and e-Research.
 
 <a href="mailto:diarmuid.mcdonnell@manchester.ac.uk" target="_blank">Email     |</a>
 <a href="https://www.research.manchester.ac.uk/portal/diarmuid.mcdonnell.html" target="_blank">    University profile    |</a>
