@@ -8,7 +8,7 @@ permalink: /about/
 
 ### Dr Julia Kasmire
 
-Diarmuid is a Research Associate at the UK Data Service based at University of Manchester. 
+Julia is a Research Associate at the UK Data Service based at University of Manchester. 
 
 ### Dr Diarmuid McDonnell
 
