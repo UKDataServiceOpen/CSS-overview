@@ -4,6 +4,7 @@ title: "Resources"
 permalink: /resources/
 ---
 
+<a href="https://ukdataserviceopen.github.io/new-forms-of-data">Home</a> | <a href="https://ukdataserviceopen.github.io/new-forms-of-data/about">About</a> | <a href="https://ukdataserviceopen.github.io/new-forms-of-data/resources">Resources</a>
 
 # Resources
 
