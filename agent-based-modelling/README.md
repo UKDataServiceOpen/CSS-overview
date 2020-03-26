@@ -25,7 +25,7 @@ This webinar:
 * discusses some problems and limitations of using real world data in agent-based models
 * presents links so that users can access and use the model data presented in the webinar
 
-### 3. APIs as a Source of Data
+### 3. Conducting experiments, recording output and analysing results of agent-based modelling for social scientists
 
 This webinar:
 * how to conduct parameter sweeps for model testing in NetLogo
