@@ -20,6 +20,6 @@ interface). Presented by [Dr Diarmuid McDonnell](https://www.research.manchester
 
 ## Resources
 
-The webinars are published on the UK Data Servce Youtube channel: [https://www.youtube.com/user/UKDATASERVICE/](https://www.youtube.com/user/UKDATASERVICE/)
+The webinars are published on the UK Data Service Youtube channel: [https://www.youtube.com/user/UKDATASERVICE/](https://www.youtube.com/user/UKDATASERVICE/)
 
 The slides and other resources (e.g., reading lists) can be found in the `webinars` folder.
