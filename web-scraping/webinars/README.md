@@ -1,3 +1,0 @@
-# Webinars
-
-[DESCRIPTION]
