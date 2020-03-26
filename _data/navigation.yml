@@ -1,0 +1,8 @@
+- name: Home
+  link: /
+- name: About
+  link: /about.md
+- name: Resources
+  link: /resources.md
+- name: Blog
+  link: /blog.md
