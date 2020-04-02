@@ -8,6 +8,10 @@ The UK Data Service is pleased to release open learning materials from its train
 
 Each folder relates to a new form of data and contains interactive notebooks containing programming code, webinar slides, reading lists and more.
 
+### Acknowledgements
+
+We are grateful to the Economic and Social Research Council and UKRI for their generous funding of this training series.
+
 ### Further Information
 
 * To keep up to date with upcoming and past training events: <a href="https://ukdataservice.ac.uk/news-and-events/events" target=_blank>[Events]</a>
