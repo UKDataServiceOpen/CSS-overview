@@ -2,11 +2,11 @@
 
 ### Training Series
 
-The UK Data Service is pleased to release open learning materials from its training series: *New Forms of Data for Social Science Research*. vast swathes of our social interactions and personal behaviours are conducted online and/or captured digitally. Our use of social media platforms such as Facebook, Twitter and Instagram generates astounding amounts of data, much of which is available from these platforms if you have the right programming skills. Snapshots of our daily lives are routinely captured and aggreagted into large, rich administrative datasets. Websites can be scraped and marshalled into statistically-usable datasets, and documents aggregated into large corpora of text information that can be mined for interesting patterns (e.g., through sentiment analysis). Thus, computational methods for collecting, processing and analysing new forms of data are an increasingly important component of a social scientist’s toolkit.
+The UK Data Service is pleased to release open learning materials from its training series: *New Forms of Data for Social Science Research*. Vast swathes of our social interactions and personal behaviours are conducted online and/or captured digitally. Our use of social media platforms such as Facebook, Twitter and Instagram generates astounding amounts of data, much of which is available from these platforms if you have the right programming skills. Snapshots of our daily lives are routinely captured and aggreagted into large, rich administrative datasets. Websites can be scraped and marshalled into statistically-usable datasets, and documents aggregated into large corpora of text information that can be mined for interesting patterns (e.g., through sentiment analysis). Thus, computational methods for collecting, processing and analysing new forms of data are an increasingly important component of a social scientist’s toolkit.
 
 ### Navigation
 
-Each folder relates to a new form of data and contains interactive notebooks containing programming code, webinar slides, reading lists and more.
+Each folder relates to a new form of data topic and contains interactive notebooks containing programming code, webinar slides, reading lists and more.
 
 ### Acknowledgements
 
@@ -17,7 +17,7 @@ We are grateful to the Economic and Social Research Council and UKRI for their g
 * To keep up to date with upcoming and past training events: <a href="https://ukdataservice.ac.uk/news-and-events/events" target=_blank>[Events]</a>
 * To get in contact with feedback, ideas or to seek assistance: <a href="https://ukdataservice.ac.uk/help.aspx" target=_blank>[Help]</a>
 
-Thank you and good luck on your journey into new forms of data! <br>
+Thank you and good luck on your journey exploring new forms of data! <br>
 
 <a href="https://www.research.manchester.ac.uk/portal/julia.kasmire.html" target=_blank>Dr Julia Kasmire</a> and <a href="https://www.research.manchester.ac.uk/portal/diarmuid.mcdonnell.html" target=_blank>Dr Diarmuid McDonnell</a> <br />
 UK Data Service  <br />
