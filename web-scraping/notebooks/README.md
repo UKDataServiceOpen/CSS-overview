@@ -6,10 +6,10 @@ If you would like to run and/or edit the materials for your own purposes, click 
 
 ## Notebooks
 
-**Web-scraping for Social Science Research: Websites as a Source of Data** <br>
+*Web-scraping for Social Science Research: Websites as a Source of Data* <br>
 [![Binder](http://mybinder.org/badge_logo.svg)](http://mybinder.org/RESTOFLINK)
 
-**Web-scraping for Social Science Research: APIs as a Source of Data** <br>
+*Web-scraping for Social Science Research: APIs as a Source of Data* <br>
 [![Binder](http://mybinder.org/badge_logo.svg)](http://mybinder.org/RESTOFLINK)
 
-Alternatively, you can download the notebook files and run them through your own installation of `Jupyter Notebooks`: see our guidance on installing Python and Jupyter [here](LINK).
+Alternatively, you can download the notebook files and run them on your own installation of `Jupyter Notebooks`: see our guidance on installing Python and Jupyter [here](LINK).
