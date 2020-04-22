@@ -1,9 +1,0 @@
-name: web-scraping
-channels:
-  - conda-forge
-  - defaults
-dependencies:
-  - requests
-  - pandas
-  - beautifulsoup4
-  - jupyter_contrib_nbextensions
