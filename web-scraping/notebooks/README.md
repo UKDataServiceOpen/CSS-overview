@@ -2,12 +2,12 @@
 
 The following are Jupyter notebooks containing a mix of Python code, narrative and output associated with each topic.
 
-If you would like to run and/or edit the materials for your own purposes, click on the *Launch Binder* button associated with each notebook. This will launch the notebook in your browser without the need to install anything on your machine.
+If you would like to run and/or edit the materials for your own purposes, click on the notebook below. This will launch the notebook in your browser without the need to install anything on your machine.
 
 ## Notebooks
 
-[Web-scraping for Social Science Research: Websites as a Source of Data] | [![Binder](http://mybinder.org/badge_logo.svg)](http://mybinder.org/RESTOFLINK) <br>
+<a href="BINDER LINK" target=_blank>Web-scraping for Social Science Research: Websites as a Source of Data</a>
 
-[Web-scraping for Social Science Research: APIs as a Source of Data] | [![Binder](http://mybinder.org/badge_logo.svg)](http://mybinder.org/RESTOFLINK)
+<a href="BINDER LINK" target=_blank>Web-scraping for Social Science Research: APIs as a Source of Data</a>
 
 Alternatively, you can download the notebook files and run them on your own installation of `Jupyter Notebooks`: see our guidance on installing Python and Jupyter [here](LINK).
