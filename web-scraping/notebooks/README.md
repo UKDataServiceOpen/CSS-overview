@@ -8,6 +8,4 @@ Alternatively, you can download the notebook files and run them on your own inst
 
 ## Online Notebooks
 
-<a href="BINDER LINK" target=_blank>Web-scraping for Social Science Research: Websites as a Source of Data</a> | [![Binder](http://mybinder.org/badge_logo.svg)](http://mybinder.org/v2/gh/binder-examples/requirements/master)<br>
-
-<a href="BINDER LINK" target=_blank>Web-scraping for Social Science Research: APIs as a Source of Data</a> | [![Binder](http://mybinder.org/badge_logo.svg)](http://mybinder.org/v2/gh/binder-examples/requirements/master)
+<a href="https://mybinder.org/v2/gh/UKDataServiceOpen/new-forms-of-data/master?filepath=web-scraping%2Fnotebooks%2Fweb-scraping-code-2020-04-23.ipynb" target=_blank>Web-scraping for Social Science Research: Websites as a Source of Data</a> | [![Binder](http://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/UKDataServiceOpen/new-forms-of-data/master?filepath=web-scraping%2Fnotebooks%2Fweb-scraping-code-2020-04-23.ipynb)<br>
