@@ -1,6 +1,6 @@
-# Installing Python
+# Installation
 
-These instructions guide you through the process of installing Python and other packages (e.g., Jupyter Notebook) on your machine. There are also instructions for creating a computing environment that enables you to run the web-scraping code associated with the *Web-scraping for Social Science Research* training series.
+These instructions guide you through the process of installing Python and other packages (e.g., Jupyter Notebook) on your machine.
 
 ### Install Python
 
@@ -24,3 +24,5 @@ For example, to launch Jupyter Notebook on a Windows machine:
 2. With the command prompt open, type *jupyter notebook* and press `enter`.
 3. After a few seconds, you should see the following screen in your web browser: <br>
 ![Jupyter server](./assets/images/jupyter-server.png)
+
+From this screen you will be able to create new Jupyter notebooks, as well open existing ones.
