@@ -20,8 +20,7 @@ jupyter notebook
 ```
 
 For example, to launch Jupyter Notebook on a Windows machine:
-![CLI](./assets/videos/launch-jupyter.mp4)
-
-
-After a short loading period you will see a screen similar to this:
+1. In the search bar in the bottom-left corner of your screen, type *cmd* and press `enter`.
+2. With the command prompt open, type *jupyter notebook* and press `enter`.
+3. After a few seconds, you should see the following screen in your web browser: <br>
 ![Jupyter server](./assets/images/jupyter-server.png)
