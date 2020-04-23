@@ -22,7 +22,7 @@ jupyter notebook
 For example, to launch Jupyter Notebook on a Windows machine:
 1. In the search bar in the bottom-left corner of your screen, type *cmd* and press `enter`.
 2. With the command prompt open, type *jupyter notebook* and press `enter`.
-3. After a few seconds, you should see the following screen in your web browser: <br>
+3. After a few seconds, you should see the following screen in your web browser: <br><br><br>
 ![Jupyter server](./assets/images/jupyter-server.png)
-
+<br><br>
 From this screen you will be able to create new Jupyter notebooks, as well open existing ones.
