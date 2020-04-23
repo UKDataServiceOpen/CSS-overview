@@ -20,7 +20,7 @@ jupyter notebook
 ```
 
 For example, to launch Jupyter Notebook on a Windows machine:
-![CLI](./assets/videos/windows-cli.mp4)
+![CLI](./assets/videos/launch-jupyter.mp4)
 
 
 After a short loading period you will see a screen similar to this:
