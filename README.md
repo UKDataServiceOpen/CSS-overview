@@ -8,7 +8,7 @@ The UK Data Service is pleased to release open learning materials from its train
 
 We have provided sample code, webinar recordings and slides, reading lists, FAQs and more for each of the topics covered under the *New Forms of Data* training series:
 * <a href="https://github.com/UKDataServiceOpen/agent-based-modelling" target=_blank>**Agent-based Modelling**</a>
-* <a href="https://github.com/UKDataServiceOpen/web-scraping" target=_blank>**Web-scraping for Social Science Research**
+* <a href="https://github.com/UKDataServiceOpen/web-scraping" target=_blank>**Web-scraping for Social Science Research**</a>
 * **Text Mining** [Coming soon]
 * **Social media/network Data** [Coming soon]
 
