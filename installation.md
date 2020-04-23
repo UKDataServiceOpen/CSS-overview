@@ -9,7 +9,7 @@ The easiest means of installing Python is to download the free Anaconda distribu
 * <a href="https://www.anaconda.com/distribution/#linux" target=_blank>Linux download</a>
 * <a href="https://www.anaconda.com/distribution/#macos" target=_blank>Mac download</a>
 
-Follow the guidance provided by Anaconda or watch the video below (note: refers to Windows installation).
+Follow the guidance provided by Anaconda or <a href="https://www.youtube.com/watch?1=&v=a-a79gH6fB8" target=_blank>watch this video guide</a> by King's College London (note: refers to Windows installation).
 
 <iframe src="https://www.youtube.com/watch?1=&v=a-a79gH6fB8", width="500", height="600">
 
