@@ -1,3 +1,5 @@
+![UKDS Logo](./assets/images/UKDS_Logos_Col_Grey_300dpi.png)
+
 # New Forms of Data
 
 ### Training Series
