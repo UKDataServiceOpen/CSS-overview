@@ -12,6 +12,8 @@ We have provided sample code, webinar recordings and slides, reading lists, FAQs
 * **Text Mining** [Coming soon]
 * **Social media/network Data** [Coming soon]
 
+We have also written guidance for installing Python and other packages on your machine: [Instructions](./installation.md)
+
 ### Acknowledgements
 
 We are grateful to the Economic and Social Research Council and UKRI for their generous funding of this training series.
