@@ -12,7 +12,7 @@ We have provided sample code, webinar recordings and slides, reading lists, FAQs
 * **Text Mining** [Coming soon]
 * **Social media/network Data** [Coming soon]
 
-We have also written guidance for installing Python and other packages on your machine: <a href="../installation.md" target=_blank>[Instructions]</a>
+We have also written guidance for installing Python and other packages on your machine: <a href="https://github.com/UKDataServiceOpen/new-forms-of-data/blob/master/installation.md" target=_blank>[Instructions]</a>
 
 ### Acknowledgements
 
