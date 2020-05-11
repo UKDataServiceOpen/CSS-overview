@@ -12,6 +12,7 @@ We have provided sample code, webinar recordings and slides, reading lists, FAQs
 * <a href="https://github.com/UKDataServiceOpen/agent-based-modelling" target=_blank>**Agent-based Modelling**</a>
 * <a href="https://github.com/UKDataServiceOpen/web-scraping" target=_blank>**Web-scraping for Social Science Research**</a>
 * <a href="https://github.com/UKDataServiceOpen/code-demos" target=_blank>**Programming for Social Science Research**</a>
+* <a href="https://github.com/UKDataServiceOpen/comp-soc-sci" target=_blank>**Becoming a Computational Social Scientist**</a>
 * **Text Mining** [Coming soon]
 * **Social media/network Data** [Coming soon]
 
@@ -19,7 +20,7 @@ We have also written guidance for installing Python and other packages on your m
 
 ### Acknowledgements
 
-We are grateful to the Economic and Social Research Council and UKRI for their generous funding of this training series.
+We are grateful to UKRI through the Economic and Social Research Council for their generous funding of this training series.
 
 ### Further Information
 
