@@ -13,7 +13,7 @@ We have provided sample code, webinar recordings and slides, reading lists, FAQs
 * <a href="https://github.com/UKDataServiceOpen/web-scraping" target=_blank>**Web-scraping for Social Science Research**</a>
 * <a href="https://github.com/UKDataServiceOpen/code-demos" target=_blank>**Programming for Social Science Research**</a>
 * <a href="https://github.com/UKDataServiceOpen/comp-soc-sci" target=_blank>**Being a Computational Social Scientist**</a>
-* **Text Mining** [Coming soon]
+* <a href="https://github.com/UKDataServiceOpen/text-mining" target=_blank>**Text Mining**</a>
 * **Social media/network Data** [Coming soon]
 
 We have also written guidance for installing Python and other packages on your machine: <a href="https://github.com/UKDataServiceOpen/new-forms-of-data/blob/master/installation.md" target=_blank>[Instructions]</a>
