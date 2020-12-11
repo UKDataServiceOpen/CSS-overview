@@ -1,6 +1,6 @@
 ![UKDS Logo](./assets/images/UKDS_Logos_Col_Grey_300dpi.png)<br>
 <br>
-# Computational Social Scienc
+# Computational Social Science
 
 ### Training Series
 
